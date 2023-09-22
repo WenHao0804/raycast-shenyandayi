@@ -1,0 +1,1 @@
+type ModeType = { id: string; name: string };
